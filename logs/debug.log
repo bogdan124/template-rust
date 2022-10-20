@@ -1,0 +1,33 @@
+[DEBUG] 2022-10-18 07:03:52 UTC - GET 200 OK "/". 
+[INFO] 2022-10-18 07:07:03 UTC - SIGINT received, exiting
+[DEBUG] 2022-10-18 07:07:35 UTC - GET 200 OK "/". 
+[DEBUG] 2022-10-18 07:08:02 UTC - GET 200 OK "/". 
+[INFO] 2022-10-19 07:44:58 UTC - SIGINT received, exiting
+[DEBUG] 2022-10-19 08:13:20 UTC - GET 200 OK "/". 
+[INFO] 2022-10-19 08:14:45 UTC - SIGINT received, exiting
+[DEBUG] 2022-10-19 09:50:06 UTC - GET 200 OK "/". 
+[DEBUG] 2022-10-19 09:50:06 UTC - GET 404 Not Found "/favicon.ico". 
+[DEBUG] 2022-10-19 09:50:27 UTC - GET 200 OK "/". 
+[DEBUG] 2022-10-19 09:50:32 UTC - GET 404 Not Found "/index". 
+[INFO] 2022-10-19 09:50:41 UTC - SIGINT received, exiting
+[DEBUG] 2022-10-19 09:50:52 UTC - GET 404 Not Found "/index". 
+[DEBUG] 2022-10-19 09:50:52 UTC - GET 404 Not Found "/index". 
+[DEBUG] 2022-10-19 09:50:53 UTC - GET 404 Not Found "/index". 
+[DEBUG] 2022-10-19 09:50:53 UTC - GET 404 Not Found "/index". 
+[INFO] 2022-10-19 09:51:09 UTC - SIGINT received, exiting
+[DEBUG] 2022-10-19 09:51:18 UTC - GET 404 Not Found "/index". 
+[DEBUG] 2022-10-19 09:51:20 UTC - GET 200 OK "/". 
+[DEBUG] 2022-10-19 09:51:31 UTC - GET 200 OK "/". 
+[DEBUG] 2022-10-19 09:51:31 UTC - GET 200 OK "/". 
+[DEBUG] 2022-10-20 06:59:17 UTC - GET 200 OK "/user/". 
+[DEBUG] 2022-10-20 06:59:50 UTC - GET 404 Not Found "/user/my_info". 
+[DEBUG] 2022-10-20 07:05:13 UTC - Failed to deserialize Json from payload. Request path: /user/signup
+[DEBUG] 2022-10-20 07:05:13 UTC - POST 400 Bad Request "/user/signup". 
+[DEBUG] 2022-10-20 07:05:26 UTC - Failed to deserialize Json from payload. Request path: /user/signup
+[DEBUG] 2022-10-20 07:05:26 UTC - POST 400 Bad Request "/user/signup". 
+[DEBUG] 2022-10-20 07:05:43 UTC - Failed to deserialize Json from payload. Request path: /user/signup
+[DEBUG] 2022-10-20 07:05:43 UTC - POST 400 Bad Request "/user/signup". 
+[DEBUG] 2022-10-20 07:05:56 UTC - POST 200 OK "/user/signup". 
+[DEBUG] 2022-10-20 07:10:10 UTC - GET 404 Not Found "/user/my_info". 
+[DEBUG] 2022-10-20 07:18:04 UTC - POST 200 OK "/auth/login". 
+[DEBUG] 2022-10-20 07:22:46 UTC - GET 200 OK "/". 
